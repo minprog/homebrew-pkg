@@ -3,6 +3,7 @@
 Now available:
 
     `minprog/pkg/libcs50` for the CS50 Libary
+    `minprog/pkg/pup` for parsing HTML at the command line
 
 ## How do I install these formulae?
 
@@ -10,6 +11,11 @@ Now available:
 
 Or `brew tap minprog/pkg` and then `brew install <formula>`.
 
+## How do I uninstall these formulae?
+
+`brew uninstall <formula>`
+
+To remove the tap as well, use `brew untap minprog/pkg`. If formulae from this tap are still installed, Homebrew offers to uninstall them.
 
 ## Documentation
 
